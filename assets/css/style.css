@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* This formatting for the header image */
 .hero {
     height: 800px;
     width: 100%;
@@ -89,7 +90,7 @@ p {
 .benefit-format {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} 
 
 .benefit-format h3 {
     margin-bottom: 10px;
